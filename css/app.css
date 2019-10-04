@@ -455,7 +455,10 @@ h2 {
   margin: 0 2px; }
 
 .vsl-logo {
-  max-width: 300px; }
+  max-width: 154px; }
+
+.rep-photo {
+  width: 96px !important; }
 
 .light-gray-bg {
   background: #f3f3f3; }
